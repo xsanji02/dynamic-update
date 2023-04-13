@@ -1,0 +1,66 @@
+body {
+  background: #c31432;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #240b36, #a42137); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h2 {
+  text-align: center;
+  width: 85rem; 
+  color: white; 
+}
+
+.border {
+  border: 2px solid white;
+  border-radius: 15px;
+  margin-left: 25em;
+  background-color: white;
+  width: 35em;
+  text-align: center;
+  background-color: pink;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 15px;
+  width: 25em;
+  height: 5em;
+  margin-left: .8em;
+}
+
+section {
+  padding: 5px 2em;
+}
+
+.btn-clear {
+  background-color: rgb(203, 97, 146);
+  width: 30em;
+  margin-top: 1em;
+  color: white;
+}
+
+.btn-refresh {
+  background-color: rgb(203, 97, 146);
+  width: 30em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  color: white;
+}
+
+.image {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+
+.person-details {
+  width: 12em;
+  line-height: 0;
+  margin-bottom: 1em;
+}
+.person-details h4, p {
+  margin-right: 4em;
+}
