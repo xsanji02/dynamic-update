@@ -3,30 +3,30 @@ export default [
         id: 1,
         fullName: 'Nico Robin',
         age: 26,
-        img: './src/images/robin.jpg'
+        img: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg'
     },
     {
         id: 2,
         fullName: 'Tashigi',
         age: 23,
-        img: './src/images/tashigi.jpg'
+        img: 'https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg'
     },
     {
         id: 3,
         fullName: 'ULTI',
         age: 22,
-        img: './src/images/ulti.jpg'
+        img: 'https://images.pexels.com/photos/2085247/pexels-photo-2085247.jpeg'
     },
     {
         id: 4,
         fullName: 'UTA',
         age: 19,
-        img: './src/images/uta.jpg'
+        img: 'https://images.pexels.com/photos/2180287/pexels-photo-2180287.jpeg'
     },
     {
         id: 5,
         fullName: 'YAMATO',
         age: 26,
-        img: './src/images/yamato.jpg'
+        img: 'https://images.pexels.com/photos/2816544/pexels-photo-2816544.jpeg'
     },
 ]
